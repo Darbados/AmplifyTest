@@ -1,0 +1,2 @@
+# AmplifyTest
+Simple amplify test
